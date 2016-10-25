@@ -1,7 +1,7 @@
 The Shogun Team  {#authors}
 ===============
 
-(in no particular ordering, and yet incomplete)
+In no particular ordering, potentially incomplete. See also [individual contributions](CONTRIBUTIONS).
 
 ## Active members :
  * Sören Sonnenburg, irc: sonney2k
