@@ -4,10 +4,8 @@ Welcome to the Shogun wiki!
 
 ### Readmes
   * [Readme](https://github.com/shogun-toolbox/shogun/blob/develop/README.md)
-  * [Quickstart](QUICKSTART)
-  * [Installation](INSTALL)
-  * [Interfaces](https://github.com/shogun-toolbox/shogun/blob/develop/INTERFACES.md)
-  * [Data](README_data)
+  * [Installation](https://github.com/shogun-toolbox/docs/blob/master/INSTALL.md)
+  * [Interfaces](https://github.com/shogun-toolbox/docs/blob/master/INTERFACES.md)
   * [Developer](README_developer)
   * [CMake (build process)](README_cmake)
   * [Internal Linear Algebra Library](README_linalg)
@@ -32,7 +30,3 @@ Welcome to the Shogun wiki!
 ### Credits
  * [Authors & Developer profiles](AUTHORS).
  * [Contributions](CONTRIBUTIONS).
- * [License](LICENSE).
-  * [msufsort](LICENSE_msufsort).
-  * [SVMlight](LICENSE_SVMlight).
-  * [Tapkee](LICENSE_tapkee).
