@@ -12,6 +12,7 @@ Welcome to the Shogun wiki!
 
 ### Documents
  * [Development guidelines](Shogun-development-guidelines).
+ * [Mentor summit: Shoguns next steps (Viktor, Heiko)](GSoC-2016-summit-discussion)
  * [Dev meetings (IRC and other)](Shogun-developer-meetings).
  * [Roadmaps](Project roadmaps).
  * [Releases TODO](Releases_TODO)
