@@ -1,3 +1,6 @@
+## GSoC 2016
+ *  [Mentor summit: Shoguns next steps (Viktor, Heiko)](GSoC-2016-summit-discussion)
+
 ## Google Summer of Code 2014
  * [Celebration meeting (September 06, 2014)](GSOC_2014_celebration_meeting)
  * [Mentor summit discussions (Fernando, Thoralf, Heiko)](GSoC-2014-results)
@@ -13,4 +16,6 @@
  * [Meeting 2 (August 27, 2013)](Meeting-2)
  * [Meeting 3 (October 4, 2013)](Meeting-3)
 
-
+Other
+ * [Brain storm on future of Shogun (2013)](Future-of-Shogun-Brainstorming).
+ * [Ideas for the 2015 hack meeting](Roadmap-Shogun-2015-hack).
