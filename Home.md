@@ -12,8 +12,6 @@ Welcome to the Shogun wiki!
 
 ### Documents
  * [Development guidelines](Shogun-development-guidelines).
- * [Ideas for the 2015 hack meeting](Roadmap-Shogun-2015-hack).
- * [Brain storm on future of Shogun (2013)](Future-of-Shogun-Brainstorming).
  * [Dev meetings (IRC and other)](Shogun-developer-meetings).
  * [Roadmaps](Project roadmaps).
  * [Releases TODO](Releases_TODO)
