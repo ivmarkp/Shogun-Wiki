@@ -1,19 +1,17 @@
 ## Getting involved with Shogun
-Welcome to our FAQ on how to get involved with Shogun and Google Summer of Code. While this FAQ is mostly written for GSoC students, it also contains lots of useful tips for getting involved in general. If you can't find what you're looking for, try the [Wiki](https://github.com/shogun-toolbox/shogun/wiki) or drop [Lea](https://github.com/shogun-toolbox/shogun/wiki/Lea-Goetz) a line. 
+Welcome to our FAQ on how to get involved with Shogun and Google Summer of Code. While this FAQ is mostly written for GSoC students, it also contains lots of useful tips for getting involved in general. If you can't find what you're looking for, contact us. 
 
-## GSoC 2016 - How to start
-Your first step is small and simple: **pick and [entrance task](https://github.com/shogun-toolbox/shogun/issues?q=is%3Aopen+is%3Aissue+label%3Aentrance)** you like and **submit a small patch that solves it**. 
+## How to start
+Your first step is small and simple: **pick an [entrance task](https://github.com/shogun-toolbox/shogun/issues?q=is%3Aopen+is%3Aissue+label%3Aentrance)** you like and **submit a small patch that solves it**. 
 
-We've compiled a list of [**example patches**](GSoC 2016 example patches) to give you a better idea of what we're looking for. Then get in touch by posting to the [mailing list](getting in touch) - don't be shy :)
+We've compiled a list of [**example patches**](GSoC-2016-example-patches) to give you a better idea of what we're looking for.
 
-Generally, we won't assign you an issue to solve because we think that you should be solving the one you're most interested in. It's worth having a look at the mailing list though, to see whether other people might already be working on this. Of course, if you have a technical question about a particular issue you can talk to the people who submitted it. 
+Generally, we won't assign you an issue to solve because we think that you should be solving the one you're most interested in. It's worth having a look at the mailing list archives, to see whether other people might already be working on this. Of course, if you have a technical question about a particular issue you can talk to the people who submitted it. 
 
 And that's it - you've made a start :)
 
-## GSoC 2016 - Project Ideas
-Curious about the projects we offer? Have your own idea? A collection of project ideas are [here](Google Summer of Code 2015 projects), last year's projects are [here](http://www.shogun-toolbox.org/page/Events/gsoc2014_ideas). 
-
-Here's a rough sketch of what it might look like to work on a [GSoC project with Shogun](GSoC 2016 deliverables).
+## Google Summer of Code
+If you are here to join us in GSoC, please have a look at our [past projects](GSoC-follow-up-blog-posts) to get a good feeling for GSoC with Shogun means.
 
 ## What we are looking for
 We have successfully participated in four summers of GSoC. This year we want to take Shogun up another notch with your help:
