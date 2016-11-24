@@ -1,4 +1,4 @@
-# Shogun development cycle in a nutshell - “How to get my code into Shogun”
+# Shogun development cycle in a nutshell
 
 Here is a very basic list of things how to get started hacking Shogun. First step is to compile from source, see [doc/readme/INSTALL.md](https://github.com/shogun-toolbox/docs/blob/master/INSTALL.md)
 
