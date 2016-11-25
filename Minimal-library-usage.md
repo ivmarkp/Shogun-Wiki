@@ -1,3 +1,5 @@
+**NOTE:** While this page contains some useful information, it is heavily deprecated and likely to change soon in the future. Consider reading Shogun's code base instead.
+
 ##The minimal libshogun example
 
     #include <shogun/base/init.h>
