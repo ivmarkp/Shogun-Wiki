@@ -10,10 +10,18 @@ As we would like to avoid spending a lot of our time on explaining the same basi
 
 1. Register on GitHub.
 2. Fork the shogun repository.
-3. Clone your fork, add the original shogun repository as a remote.
-4. Create a feature branch
+3. Clone your fork, add the original shogun develop repository as a remote.
+4. Create a feature branch.
 5. Your code here: Fix bug or add feature. 
 6. Make sure (!) it is [tested](Testing) and complying to the [code style](Code-style).
-7. Commit locally, using clean and informative commit messages, potentially goto 5
-8. Push your commits to your fork
-9. Send a pull request
+7. Commit locally, using neat and informative commit messages, grouping commits, potentially goto 5
+8. [Rebase](https://git-scm.com/book/en/v2/Git-Branching-Rebasing) against shogun's develop branch
+9. Push your commits to your fork
+10. Send a pull request (PR)
+
+## Requirements for merging your PR
+ * All tests pass (your pull request causes travis to check all interfaces)
+ * The PR is small.
+ * The PR is clean and addresses *one* issue.
+ * If C++ code: it is covered by tests, it doesn't leak memory, its API is documented.
+ * If example/docs: it looks polished, English language is correct.
