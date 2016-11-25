@@ -6,7 +6,7 @@ As we would like to avoid spending a lot of our time on explaining the same basi
  * Please *excessively* use Google for any questions on the tools needed
  * Please *read* [guides](https://guides.github.com/) for collaborative open source development
 
-## Steps:
+## Steps, based on [git flow](https://guides.github.com/introduction/flow/)
 
 1. Register on GitHub.
 2. Fork the shogun repository.
