@@ -4,10 +4,10 @@ Welcome to the Shogun wiki!
 
 ### Main readmes
   * [README.md](https://github.com/shogun-toolbox/shogun/blob/develop/README.md)
-  * [INSTALL.md](https://github.com/shogun-toolbox/docs/blob/develop/INSTALL.md)
-  * [INTERFACES.md](https://github.com/shogun-toolbox/docs/blob/develop/INTERFACES.md)
-  * [EXAMPLES.md](https://github.com/shogun-toolbox/docs/blob/develop/EXAMPLES.md)
-  * [DEVELOPING.md](https://github.com/shogun-toolbox/docs/blob/develop/DEVELOPING.md)
+  * [INSTALL.md](https://github.com/shogun-toolbox/docs/blob/master/INSTALL.md)
+  * [INTERFACES.md](https://github.com/shogun-toolbox/docs/blob/master/INTERFACES.md)
+  * [EXAMPLES.md](https://github.com/shogun-toolbox/docs/blob/master/EXAMPLES.md)
+  * [DEVELOPING.md](https://github.com/shogun-toolbox/docs/blob/master/DEVELOPING.md)
 
 ### Wiki readmes
   * [Internal Linear Algebra Library](README_linalg)
