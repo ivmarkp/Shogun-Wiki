@@ -10,8 +10,8 @@ Welcome to the Shogun wiki!
   * [DEVELOPING.md](https://github.com/shogun-toolbox/docs/blob/master/DEVELOPING.md)
 
 ### Developing Shogun
-  * [Getting involved (also GSoC!)](Getting-involved)
-  * [Development tips](Shogun-development-guidelines).
+  * [Getting involved](Getting-involved)
+  * [Development tips](Dev-Tips).
 
 ### Documents
  * [Mentor summit: Shoguns next steps (Viktor, Heiko)](GSoC-2016-summit-discussion)
