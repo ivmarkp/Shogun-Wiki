@@ -2,12 +2,13 @@ Welcome to the Shogun wiki!
 
 #### Quick link:  [Google Summer of Code 2016](Google Summer of Code 2016 Projects)
 
-### Readmes
-  * [Readme](https://github.com/shogun-toolbox/shogun/blob/master/README.md)
-  * [Installation](https://github.com/shogun-toolbox/docs/blob/master/INSTALL.md)
-  * [Interfaces](https://github.com/shogun-toolbox/docs/blob/master/INTERFACES.md)
-  * [Developer](README_developer)
-  * [CMake (build process)](README_cmake)
+### Main readmes
+  * [Readme](https://github.com/shogun-toolbox/shogun/blob/develop/README.md)
+  * [Installation](https://github.com/shogun-toolbox/docs/blob/develop/INSTALL.md)
+  * [Interfaces](https://github.com/shogun-toolbox/docs/blob/develop/INTERFACES.md)
+  * [Developer](https://github.com/shogun-toolbox/docs/blob/develop/DEVELOPING.md)
+
+### Wiki readmes
   * [Internal Linear Algebra Library](README_linalg)
   * [New tag-based parameter framework](README_tags)
 
