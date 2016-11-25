@@ -9,12 +9,12 @@ Welcome to the Shogun wiki!
   * [EXAMPLES.md](https://github.com/shogun-toolbox/docs/blob/master/EXAMPLES.md)
   * [DEVELOPING.md](https://github.com/shogun-toolbox/docs/blob/master/DEVELOPING.md)
 
-### Wiki readmes
+### Developing Shogun
   * [Internal Linear Algebra Library](README_linalg)
   * [New tag-based parameter framework](README_tags)
+ * [Development guidelines](Shogun-development-guidelines).
 
 ### Documents
- * [Development guidelines](Shogun-development-guidelines).
  * [Mentor summit: Shoguns next steps (Viktor, Heiko)](GSoC-2016-summit-discussion)
  * [Dev meetings (IRC and other)](Shogun-developer-meetings).
  * [Roadmaps](Project roadmaps).
