@@ -1,12 +1,17 @@
-## Getting involved with Shogun
+# Getting involved
 Welcome to our FAQ on how to get involved with Shogun and Google Summer of Code. While this FAQ is mostly written for GSoC students, it also contains lots of useful tips for getting involved in general. If you can't find what you're looking for, contact us. 
 
-## How to start
-[Install](https://github.com/shogun-toolbox/docs/blob/master/DEVELOPING.md) Shogun. Then, check the [DEVELOPING.md](https://github.com/shogun-toolbox/docs/blob/master/DEVELOPING.md) readme.
+## First steps - “Shogun seems huge (and messy), where do I start?”
+Shogun **is** huge and messy. Half of the fun is that nobody really understands all parts of it. But don't be intimidated, the basics are very simple ;)
 
-Your first patch is **small and simple**: pick an [entrance task](https://github.com/shogun-toolbox/shogun/issues?q=is%3Aopen+is%3Aissue+label%3Aentrance) you like and submit a small patch that solves it. Do something very simple, like fixing a typo in the docs or add an example.
+First step, install it, see [INSTALL.md](https://github.com/shogun-toolbox/docs/blob/master/INSTALL.md). If you have trouble, search the web. If you still have trouble, ask us. If you think that your issue might be worth being documented, we greatly appreciate if you then would update the corresponding README (this is what open-source is about).
 
+After an installation, try running the [examples](http://shogun.ml/examples) locally. You can also try to run the tests. Check the [readmes](https://github.com/shogun-toolbox/docs/blob/master/) for that. Once everything is set up and working, have a look at our [showroom](http://shogun.ml/showroom), and maybe try to run things locally. Pick an example of your choice and play with it. You could for example modify the data that is used, or plug in another algorithm. If you find a bug or problem, tell us about it!
+
+###Your first patch
+... is **small and simple**: pick an [entrance task](https://github.com/shogun-toolbox/shogun/issues?q=is%3Aopen+is%3Aissue+label%3Aentrance) you like and submit a small patch that solves it. Do something very simple, like fixing a typo in the docs or [add/port an example](https://github.com/shogun-toolbox/shogun/issues/3555).
 We've compiled a list of [**example patches**](GSoC-2016-example-patches) to give you a better idea of what we're looking for.
+Before sending a patch, check the [DEVELOPING.md](https://github.com/shogun-toolbox/docs/blob/master/DEVELOPING.md) readme.
 
 Generally, we won't assign you an issue to solve because we think that you should be solving the one you're most interested in. It's worth having a look at the mailing list archives, to see whether other people might already be working on this. Of course, if you have a technical question about a particular issue you can talk to the people who submitted it. 
 
@@ -28,10 +33,7 @@ GSoC is a great program and every year we have lots of fun.
 Without few exceptions, most Shogun developers are male. We would like to change this - to create a nicer atmosphere and to [work more effectively](http://www.nytimes.com/2015/01/18/opinion/sunday/why-some-teams-are-smarter-than-others.html?_r=0). In order to achieve a more balanced gender distribution (in GSoC and general), **we are in particular looking for female contributors to join us**.
 
 ## Applicability - “Am I good enough to do this?”
-If your answer to this question is “YES!”, then you are the right person ;) The main skill that we are looking for is motivation - we greatly appreciate people who take initiative, come up with creative ideas and are self-organised in making them happen (with our guidance of course). Since Shogun is about ML, most projects are technically involved in some sense: probability distributions, linear algebra, optimization, as well as object-oriented programming, compilers, and git should be things that do not scare you (not too much at least ;) ). However, we do not require you to be a master in the topics that the projects are about, our community is also about enjoying to learn and all of us started from zero.
-
-## First steps - “Shogun seems huge (and messy), where do I start?”
-A good (and sometimes already challenging) start into Shogun is to try to install it. If you have troubles doing so check the [doc/readme/INSTALL.md](https://github.com/shogun-toolbox/docs/blob/master/INSTALL.md) If you still have trouble, ask us. If you think that your issue might be worth being documented, we greatly appreciate if you then would update the corresponding README (this is what open-source is about), or this wiki. After having installed Shogun, try running the [examples](http://shogun.ml/examples) locally. You can also try to run the [tests](Testing) that we use to keep Shogun working (more on those later). Once everything is set up and working, have a look at our [showroom](http://shogun.ml/showroom), and maybe try to run things locally. Pick an example of your choice and play with it. You could for example modify the data that is used, or plug in another algorithm. Again, if you have any problems with that, please get back to us, which brings us to the next point.
+You are the right person!! The main skill that we are looking for is motivation - we greatly appreciate people who take initiative, come up with creative ideas and are self-organised in making them happen (with our guidance of course). Since Shogun is about ML, most projects are technically involved in some sense: probability distributions, linear algebra, optimization, as well as object-oriented programming, compilers, and git should be things that do not scare you (not too much at least ;) ). However, we do not require you to be a master in the topics that the projects are about, our community is also about enjoying to learn and all of us started from zero.
 
 ## Communication - “I don’t want to bother the Shogun developers with my stupid question”
 Wrong! Communication is among the most important things in GSoC and in open-source in general. We will not find out what you are doing and what you are able to do, if you don’t tell us. We also don’t bite :) So ask us if you have problems. Let us know in what you are interested and what your ideas are. The best way to get in touch is via IRC, or the mailing list. Ask any of the present [authors](AUTHORS). Most of us live in European timezones. You are also encouraged to help out other students if you know something that they don’t.
