@@ -1,6 +1,8 @@
 GETTING STARTED     {#developer}
 ===============
 
+**NOTE**: This page is deprecated and will soon be replaced by [Developing-Shogun](Developing-Shogun)
+
 Shogun is split up into libshogun which contains all the machine learning
 algorithms and 'static interfaces' helpers,
 the static interfaces python_static, octave_static, matlab_static, r_static and
