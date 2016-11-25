@@ -9,7 +9,7 @@
 
 * Development
   * [Getting involved)](Getting-involved)
-  * [Dev tips](Shogun-development-guidelines).
+  * [Dev tips](Dev-Tips).
 
 * GSoC
   * [Follow ups](GSoC-follow-up-blog-posts)
