@@ -1,7 +1,4 @@
-Welcome to the Shogun wiki!
-
 * [Home](Home)
-* [quick link GSoC 2016 projects](Google Summer of Code 2016 Projects)
 
 * Readmes:
   * [README.md](https://github.com/shogun-toolbox/shogun/blob/develop/README.md)
@@ -12,9 +9,7 @@ Welcome to the Shogun wiki!
 
 * Development
   * [Getting involved (also GSoC!)](Getting-involved)
-  * [Random development tips](Shogun-development-guidelines).
-  * [Internal Linear Algebra Library](README_linalg)
-  * [New tag-based parameter framework](README_tags)
+  * [Dev tips](Shogun-development-guidelines).
 
 * GSoC
   * [Follow ups](GSoC-follow-up-blog-posts)
