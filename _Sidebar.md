@@ -10,16 +10,13 @@ Welcome to the Shogun wiki!
   * [EXAMPLES.md](https://github.com/shogun-toolbox/docs/blob/master/EXAMPLES.md)
   * [DEVELOPING.md](https://github.com/shogun-toolbox/docs/blob/master/DEVELOPING.md)
 
-* Documents
- * [Dev guidelines](Shogun-development-guidelines)
- * [GSoC 2016 Shogun's future](GSoC-2016-summit-discussion)
- * [Brain storm Future Shogun (2013)](Future-of-Shogun-Brainstorming)
- * [Dev meetings](Shogun-developer-meetings)
- * [Roadmaps](Project roadmaps)
- * [Releases](Releases_TODO)
+* Development
+  * [Getting involved (also GSoC!)](Getting-involved)
+  * [Random development tips](Shogun-development-guidelines).
+  * [Internal Linear Algebra Library](README_linalg)
+  * [New tag-based parameter framework](README_tags)
 
 * GSoC
-  * [Getting involved](Getting-involved)
   * [Follow ups](GSoC-follow-up-blog-posts)
   * [2016 projects](Google Summer of Code 2016 Projects)
 
