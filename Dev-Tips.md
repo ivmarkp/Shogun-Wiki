@@ -1,4 +1,5 @@
 * General development workflow, [DEVELOPING.md](https://github.com/shogun-toolbox/docs/blob/master/DEVELOPING.md)
+* [Minimal Shogun library usage example](Minimal-library-usage)
 * [Internal Linear Algebra Library](README_linalg)
 * [Tag-based parameter framework](README_tags)
 * [Making a release](Make-a-new-release)
