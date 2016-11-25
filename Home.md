@@ -12,9 +12,6 @@ Welcome to the Shogun wiki!
 ### Developing Shogun
   * [Getting involved (also GSoC!)](Getting-involved)
   * [Random development tips](Shogun-development-guidelines).
-  * [Internal Linear Algebra Library](README_linalg)
-  * [New tag-based parameter framework](README_tags)
-
 
 ### Documents
  * [Mentor summit: Shoguns next steps (Viktor, Heiko)](GSoC-2016-summit-discussion)
