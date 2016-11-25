@@ -1,5 +1,6 @@
 # Google Summer of Code 2016
 
+Thanks everyone for a great summer. See the [follow up blog posts](GSoC-follow-up-blog-posts) for how it went.
 
 # Main focus
 This year's GSoC is about improving Shogun, rather than extending it (exceptions allowed). We also want to recruit new *long-term* developers.
