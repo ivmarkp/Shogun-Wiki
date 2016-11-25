@@ -8,7 +8,7 @@
   * [DEVELOPING.md](https://github.com/shogun-toolbox/docs/blob/master/DEVELOPING.md)
 
 * Development
-  * [Getting involved)](Getting-involved)
+  * [Getting involved](Getting-involved)
   * [Dev tips](Dev-Tips).
 
 * GSoC
