@@ -1,5 +1,8 @@
 # Internal linear algebra library
 
+**NOTE:** Heavily deprecated as it will soon be replaced with Pan's [GSoC 2016 project](GSoC-2016-Final-Report-:-The-Shogun-Detox)
+
+
 **Table of Contents**
 - [Motivation](README_linalg#motivation)
 - [Features of internal linear algebra library](README_linalg#features-of-internal-linear-algebra-library)
