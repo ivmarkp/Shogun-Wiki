@@ -11,7 +11,7 @@ Welcome to the Shogun wiki!
 
 ### Developing Shogun
   * [Getting involved (also GSoC!)](Getting-involved)
-  * [Random development tips](Shogun-development-guidelines).
+  * [Development tips](Shogun-development-guidelines).
 
 ### Documents
  * [Mentor summit: Shoguns next steps (Viktor, Heiko)](GSoC-2016-summit-discussion)
