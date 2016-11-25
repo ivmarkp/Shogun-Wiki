@@ -11,7 +11,7 @@ Generally, we won't assign you an issue to solve because we think that you shoul
 And that's it - you've made a start :)
 
 ## Google Summer of Code & What we are looking for
-If you are here to join us in GSoC, please have a look at our [past projects](GSoC-follow-up-blog-posts) to get a good feeling for GSoC with Shogun means.
+If you are here to join us in GSoC, please have a look at our [past projects](GSoC-follow-up-blog-posts) and our [GSoC 2016 project](Google%20Summer%20of%20Code%202016%20Projects) to get a good feeling for GSoC with Shogun means.
 We have successfully participated in a number of GSoC. Your help is extremely welcome. Therefore if...
 
  * you are interested in Machine Learning (ML), Statistics, Optimization, framework design, or just C++ coding
