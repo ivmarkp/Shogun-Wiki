@@ -9,11 +9,11 @@ Welcome to the Shogun wiki!
 
 ### Developing Shogun
   * [Getting involved](Getting-involved)
-  * [Development tips](Dev-Tips).
+  * [Development tips](Dev-Tips)
+  * [Future ideas](Future-ideas)
 
 ### Documents
- * [Mentor summit: Shoguns next steps (Viktor, Heiko)](GSoC-2016-summit-discussion)
- * [Dev meetings (IRC and other)](Shogun-developer-meetings).
+ * [Dev meetings](Shogun-developer-meetings).
 
 ### Google Summer of Code
 
