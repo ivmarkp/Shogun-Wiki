@@ -7,6 +7,7 @@
 
 ## Stammtisch
  * [July 13, 2015](Stammtisch 2015-07-15)
+ * [December 12, 2016, Gunnar & Heiko post NIPS](Stammtisch 2016-12-12)
 
 ## Random discussions
  * [Building a proper manual (Feb. 18, 2015, ~1hr)](http://www.shogun-toolbox.org/irclogs/%23shogun.2015-02-18.log.html#t17:02)
