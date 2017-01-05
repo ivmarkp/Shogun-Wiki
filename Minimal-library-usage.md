@@ -14,7 +14,7 @@
     }
 
 It obviously does nothing (apart form initializing and destroying a couple of global shogun objects internally).
-Check [INTERFACES.md](https://github.com/shogun-toolbox/docs/blob/master/INTERFACES.md) on how to compile and run it. See the [website API examples](http://shogun.ml/examples) and [EXAMPLES.md](https://github.com/shogun-toolbox/docs/blob/master/EXAMPLES.md) for more C++ examples.
+Check [INTERFACES.md](https://github.com/shogun-toolbox/docs/blob/master/INTERFACES.md) on how to compile and run it. See the [website API examples](http://shogun-toolbox.org/examples) and [EXAMPLES.md](https://github.com/shogun-toolbox/docs/blob/master/EXAMPLES.md) for more C++ examples.
 
 ## Redirecting output
 In case one wants to redirect shoguns output functions `SG_DEBUG`, `SG_INFO`, etc one has to pass them to init_shogun() as parameters

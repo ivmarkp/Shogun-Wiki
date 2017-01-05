@@ -2,7 +2,7 @@
 
 All GSoC 2016 students will work on this project jointly, next to their main project.
 [Cookbook link](https://github.com/shogun-toolbox/shogun/tree/develop/doc/cookbook). 
-[Latest cookbook](http://shogun.ml/cookbook/latest/)
+[Latest cookbook](http://shogun-toolbox.org/examples/latest/index.html)
 
 ### Mentors
  * [Lea](Lea%20Goetz) (github: [lgoetz](https://github.com/lgoetz), IRC: leagoetz)
@@ -18,7 +18,7 @@ Easy. You need to
  * Desirable: Shogun experience
 
 ### Description
-This project is about bringing a new Shogun cookook to life. This puts together a year of work on Shogun's [meta language](https://github.com/shogun-toolbox/shogun/wiki/Example_Generation), and our [cookbook](https://github.com/shogun-toolbox/shogun/tree/develop/doc/sphinx) for a sphinx-based API documentation system. The goal is to have API example that cover all target languages and all algorithms, in a form that looks like [this](http://shogun.ml/cookbook/latest/).
+This project is about bringing a new Shogun cookook to life. This puts together a year of work on Shogun's [meta language](https://github.com/shogun-toolbox/shogun/wiki/Example_Generation), and our [cookbook](https://github.com/shogun-toolbox/shogun/tree/develop/doc/cookbook) for a sphinx-based API documentation system. The goal is to have API example that cover all target languages and all algorithms, in a form that looks like [this](http://shogun-toolbox.org/examples/latest/index.html).
 
 
 
